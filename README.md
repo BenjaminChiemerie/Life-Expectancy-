@@ -28,8 +28,8 @@ A [Streamlit](https://streamlit.io) web app for estimating **life expectancy at 
 ### Installation
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <my-repo-url>
+cd <my-repo-folder>
 
 python -m venv .venv
 # macOS / Linux
